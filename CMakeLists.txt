@@ -28,10 +28,12 @@ endfunction()
 initialise_target(day1 source/day1.cpp)
 initialise_target(day2 source/day2.cpp)
 initialise_target(day3 source/day3.cpp)
+initialise_target(day4 source/day4.cpp)
 
 set(supplementary_files
         source/day1.txt
         source/day2.txt
-        source/day3.txt)
+        source/day3.txt
+        source/day4.txt)
 
 use_supplementary_files("${supplementary_files}")
