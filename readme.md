@@ -7,3 +7,4 @@ This repository tracks my solutions for Advent of Code 2022.
 3. [Problem](https://adventofcode.com/2022/day/3), [Solution](source/day3.cpp)
 4. [Problem](https://adventofcode.com/2022/day/4), [Solution](source/day4.cpp)
 5. [Problem](https://adventofcode.com/2022/day/5), [Solution](source/day5.cpp)
+6. [Problem](https://adventofcode.com/2022/day/6), [Solution](source/day6.cpp)
